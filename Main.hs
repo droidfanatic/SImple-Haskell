@@ -1,5 +1,3 @@
---Daycee Duncan
---Student ID: 11507806
 import Data.List
 import GHC.Exts
 
